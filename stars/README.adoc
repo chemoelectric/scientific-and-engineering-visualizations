@@ -1,0 +1,10 @@
+= Structures of stars
+
+magnetoplasmoid_kernel: This is the inferred center of what
+  conventional physics mistakes for a “black hole.” This structure
+  cannot be seen, however. Immensely powerful fields trap all
+  electromagnetic radiation, forming a radiation
+  horizon.footnote:[This is not an “event horizon,” because Minkowski
+  space-time is a preposterous artifact of Relativity Theory. Space
+  and time are exactly as intuition says they are. The horizon is
+  merely a boundary past which no radiation can get.]
