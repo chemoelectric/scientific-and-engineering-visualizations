@@ -1,6 +1,6 @@
 = Structures of stars
 
-magnetoplasmoid_kernel: This is the inferred center of what
+magnetoplasmoid_kernel:: This is the inferred center of what
   conventional physics mistakes for a “black hole.” This structure
   cannot be seen, however. Immensely powerful fields trap all
   electromagnetic radiation, forming a radiation
