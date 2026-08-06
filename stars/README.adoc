@@ -5,6 +5,7 @@ magnetoplasmoid_kernel:: This is the inferred center of what
   cannot be seen, however. Immensely powerful fields trap all
   electromagnetic radiation, forming a radiation
   horizon.footnote:[This is not an “event horizon,” because Minkowski
-  space-time is a preposterous artifact of Relativity Theory. Space
-  and time are exactly as intuition says they are. The horizon is
+  space-time is useless. Space and time are exactly as intuition says
+  they are, and are not bound together as in Relativity theory. Nor do
+  we use coordinate systems, if we do not have to. The horizon is
   merely a boundary past which no radiation can get.]
