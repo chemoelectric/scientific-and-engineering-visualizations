@@ -1,0 +1,13 @@
+#!/bin/zsh
+
+set -e
+
+input="${1?}"
+output="${input:r}.png"
+
+magick -density 450 "${input}" \
+               -background "#f6f8fa" \
+               -layers flatten \
+               -bordercolor "#f6f8fa" -border 15x15 \
+               "${output}"
+optipng "${output}"
