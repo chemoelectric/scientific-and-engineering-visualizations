@@ -6,7 +6,14 @@ It did _not_ begin with a “Big Bang,” and it is _not_ expanding. It is
 in stasis and is visible only out to about 13.8 billion light years.
 This is because there is no “vacuum,” but instead the electromagnetic
 field. Light must travel through this field and thus degrades. The
-degraded light forms the Cosmic Microwave Background.
+degraded light forms the Cosmic Microwave
+Background.footnote:[Honestly, how physicists get away with ignoring
+that all of outer space must be an electrogravitomagnetic field is
+beyond me. That gravity itself is an electromagnetic effect proves
+mostly that Special Relativity was wrong and James Clerk Maxwell was
+right. Maxwell mistakenly believed in a luminiferous ether, but
+Special Relativity merely _implicitly_ assumes that the ether _exists
+but does not move_.]
 
 Within the universal electromagnetic field, there are these structures
 we know as “electrons,” “protons,” and “neutrons.” They are dynamic
